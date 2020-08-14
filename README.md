@@ -1,5 +1,6 @@
 # My Heart
 Heart Health Website
+Displays health data concerning your heart.
 Developed at PennApps 2018 along with corresponding Android Wear App (not listed on repository)
 Contributors: [Rohan Jinturkar](http://github.com/rjintu), [David Lin](http://github.com/davidwlin), [Swapnil Napuri](http://github.com/Swapnil-N), and [Kyle Lui](http://github.com/dragonkyro)
 
